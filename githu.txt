@@ -1,4 +1,11 @@
 Hi
 how  are you 
 iam Spandana
+ file1.txt
+iam a Student
+At  vaagdevi Engineering college
+And i haven't completed my course
+Thank you
+
 Hey
+ main
